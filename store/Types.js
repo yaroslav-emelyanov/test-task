@@ -1,0 +1,2 @@
+export const SET_SEARCH_VALUE = 'SET_SEARCH_VALUE';
+export const SET_RECORDS = 'SET_RECORDS';
